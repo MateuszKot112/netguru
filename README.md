@@ -1,6 +1,6 @@
 # Automation tests for netguru
 
-This is bdd approach with python and behave aframework.
+This is bdd approach with python and behave framework.
 
 Preconditions:
 You have installed python and pip on your machine
