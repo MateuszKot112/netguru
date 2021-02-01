@@ -10,7 +10,7 @@ Steps to run tests:
 2. Type in: activate 
 3. Return to main folder (or type something like ../..)
 4. To run tests type: behave
-5. You can run certan tests with command behavve --tags={name of the tag}
+5. You can run certan tests with command behave --tags={name of the tag}
 6. Available tags are: register, login, valid, invalid
 
 If viratual enrionment doesn't work, you can also type in terminal: pip3 install -r requirements.txt
